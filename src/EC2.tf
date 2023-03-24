@@ -49,3 +49,5 @@ resource "aws_ec2" "adastraec2-test" {
     device_index= 0
   }
 }
+
+#actions
