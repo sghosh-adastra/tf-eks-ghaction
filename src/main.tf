@@ -1,5 +1,4 @@
 terraform {
-  
   backend "s3" {
     bucket = "adastra-tsg-ghactions-tf"
     region = "eu-central-1"
